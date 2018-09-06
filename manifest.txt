@@ -1,0 +1,3 @@
+риртиhMain-Class: ua.com.google.Hello
+
+
